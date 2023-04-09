@@ -4,8 +4,8 @@
 
 #### This is a simple React app that uses Anilist API to fetch anime data.
 
-`The design is based on the design of my previous project:`
-[ShareMe app](https://shareme-react-app.netlify.app/)
+### Live preview:
+[Netlify](https://tv-anime.netlify.app/)
 
 ### Used technologies:
 - React
